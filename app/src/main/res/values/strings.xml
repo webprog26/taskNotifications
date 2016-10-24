@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TaskNotifications</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="edit_notification_edittext_hint">Type your message ...</string>
+    <string name="send">Send</string>
+    <string name="message_sent_successfully">Message sent successfully</string>
+    <string name="details">Details:</string>
+    <string name="message_empty">Message can\'t be empty</string>
+    <string name="have_some_tea">Have some tea</string>
 </resources>
